@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://ANSOSE-13.github.io/2damasi-/sitemap.xml
